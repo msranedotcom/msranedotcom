@@ -16,6 +16,8 @@ function startLoader() {
     updateCounter();
   }
 
+  localStorage.setItem("isFromIndex", "NO")
+
   startLoader();
   gsap.to(".count", { opacity: 0, delay: 3.5, duration: 0.25 });
 

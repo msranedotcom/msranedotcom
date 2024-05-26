@@ -13,6 +13,10 @@ body {
     /* overflow-x: hidden; */
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 /* p {
     font-family: "Space Mono";
     text-transform: uppercase;
@@ -233,12 +237,12 @@ footer>div {
 }
 
 .img:nth-child(1) {
-    background: url(../assets/nav-2.avif) no-repeat 50% 50%;
+    background: url(../assets/software-development.png) no-repeat 50% 50%;
     background-size: cover;
 }
 
 .img:nth-child(2) {
-    background: url(../assets/nav-1.avif) no-repeat 50% 50%;
+    background: url(../assets/devops-logo.png) no-repeat 50% 50%;
     background-size: cover;
 }
 
@@ -330,6 +334,20 @@ a {
     width: 100%;
     height: 100%;
     z-index: 2 !important;
+}
+
+.logo {
+    position: fixed;
+    margin: 1.5em;
+    z-index: 0;
+}
+
+.logo .logo-wrapper a {
+    text-decoration: none;
+    font-family: "Canopee";
+    text-transform: uppercase;
+    color: white;
+    line-height: 1;
 }
 
 nav {
@@ -482,12 +500,19 @@ a {
     display: flex;
     padding: 1em;
     transition: 0.3s;
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .menu-item-year,
 .menu-item-link {
-    flex: 1;
+  /* flex: 1; */
+  flex: 3;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-item-year p {
+  opacity: 1;
 }
 
 .menu-item-name {
@@ -502,6 +527,7 @@ a {
     text-align: center;
     font-family: "Space Mono";
     text-transform: uppercase;
+    opacity: 1;
     /* font-size: 14px; */
 }
 
@@ -511,6 +537,20 @@ a {
 
 .menu-item-link a {
     color: black;
+}
+
+.model_3d_container {
+    position: relative;
+    width: 50% !important;
+}
+
+.spline-element {
+    position: absolute;
+}
+
+spline-viewer #shadow-root>#container>#spline {
+    width: 120px;
+    height: 120px;
 }
 
 @media (max-width: 900px) {
