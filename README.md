@@ -3,8 +3,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Mohit Rane</h1>
-<h3 align="center">A passionate programmer from India</h3>
-<p align="center">Software engineer with 3+ years of experience. Worked for innovative projects and large enterprise products. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, backend, and API development.</p>
+<h3 align="center">AI Full Stack Engineer & DevOps Strategist</h3>
+<p align="center">I specialize in building full-stack, production-ready SaaS platforms powered by AI, RAG (Retrieval-Augmented Generation), Cloud DevOps, and thoughtful Software Architecture. My mission is to solve real-world problems at scale by combining engineering depth with product-first thinking.</p>
 <!-- <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=mohit16&label=Profile%20views&color=0e75b6&style=flat" alt="mohit rane" /> 
  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="mohit rane's languages" />
@@ -31,29 +31,66 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Who I Am
+I’m transitioning from a Full Stack Developer to a **Software Architect & AI Product Builder**. Over the last few years, I’ve built and delivered multiple high-impact freelance and productized solutions across domains like real estate, edtech, finance, and devtools.
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+Currently, I’m building **EagleSON Engine** – an AI-powered platform to help developers, students, and professionals crack interviews using real-world Q&A, master answers, voice feedback, and RAG intelligence.
 
-- 🌱 I’m currently learning **Devops**
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## What I Work On
 
-- 👨‍💻 All of my projects are available at [Mohit Coding Lab](https://mohitrane.com/)
+- 🧱 **AI + RAG-based Full Stack Applications**
+- 🖥️ **Frontend Engineering**: React, Angular, Tailwind, Framer Motion
+- 🔧 **Backend Systems**: Node.js, Express, MongoDB, PostgreSQL
+- ☁️ **DevOps & Infra**: AWS (EC2, S3, Route 53, Lambda), Docker, GitHub Actions, CI/CD, Nginx
+- 🧠 **GenAI / LLM**: Prompt Engineering, LangChain, Embeddings, Vector DBs (Pinecone, Chroma)
+- 🎯 **Architecture & Strategy**: Monorepo, Domain-driven design, Modularization, Performance Tuning
 
-- 💬 Ask me about **Javascript, Angular, React, NodeJS and Devops**
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🌐 Projects That Reflect Me
 
-- 📫 How to reach me **mohit@mohitrane.com** or **mohitsrane13@gmail.com**
+- **RanSON Engine** – AI-driven Interview Preparation Engine (RAG-based)
+- **Property On Location** – 99acres-style Real Estate Platform (Full Stack Freelance Project)
+- **AI-Powered Portfolio Engine** – Contextual insights + publishing tools for learners and professionals
+- **CI/CD + Auto Infra Deployment Tools** – DevOps pipelines for microservices and SaaS products
 
-- 📄 Know about my experiences [my experiences](https://mohitrane.com/digital-cv)
+> More projects: [📁 Mohit Coding Lab](https://github.com/Mohit-S-Rane) (coming soon: split public/private showcases)
 
-- ⚡ Fun fact **I think I'm funny**
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Topics I Love To Talk About
+
+- Building AI-native SaaS
+- Architecting scalable full-stack systems
+- Real-world GenAI use cases (beyond playgrounds)
+- Developer productivity & workflow automation
+- Strategic career growth through product thinking
+
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Currently
+
+- 🔭 **Building**: RanSON Engine (CareerOS meets Interview AI)
+- ✍️ **Sharing**: Insights on product-building, system design, and AI on [LinkedIn](https://linkedin.com/in/mohit-s-rane)
+
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Fun but True
+I build for impact, think in systems, and believe in sharing everything I learn.  
+I might debug your app and pitch a product idea in the same breath.
+
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohit-s-rane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitrane" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohit_s_rane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_s_rane" height="30" width="40" /></a>
-<a href="https://www.mohitrane.com" target="blank"><img align="center" src="./m-logo-gif.gif" alt="mohit rane" height="40" width="40" /></a>
+<a href="https://www.msrane.com" target="blank"><img align="center" src="./m-logo-gif.gif" alt="mohit rane" height="40" width="40" /></a>
 </p>
 <br>
 
@@ -104,7 +141,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> "Let’s build something new" </b> — one smart tool at a time. so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://mohitrane.com/">Mohit Rane</a></p>
+<p align="right" > Created with 🧡 by <a href="https://msrane.com/">Mohit Rane</a></p>
