@@ -31,14 +31,14 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## Who I Am
 I’m transitioning from a Full Stack Developer to a **Software Architect & AI Product Builder**. Over the last few years, I’ve built and delivered multiple high-impact freelance and productized solutions across domains like real estate, edtech, finance, and devtools.
 
 Currently, I’m building **EagleSON Engine** – an AI-powered platform to help developers, students, and professionals crack interviews using real-world Q&A, master answers, voice feedback, and RAG intelligence.
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## What I Work On
 
@@ -49,7 +49,7 @@ Currently, I’m building **EagleSON Engine** – an AI-powered platform to help
 - 🧠 **GenAI / LLM**: Prompt Engineering, LangChain, Embeddings, Vector DBs (Pinecone, Chroma)
 - 🎯 **Architecture & Strategy**: Monorepo, Domain-driven design, Modularization, Performance Tuning
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## 🌐 Projects That Reflect Me
 
@@ -60,7 +60,7 @@ Currently, I’m building **EagleSON Engine** – an AI-powered platform to help
 
 > More projects: [📁 Mohit Coding Lab](https://github.com/Mohit-S-Rane) (coming soon: split public/private showcases)
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## Topics I Love To Talk About
 
@@ -70,14 +70,14 @@ Currently, I’m building **EagleSON Engine** – an AI-powered platform to help
 - Developer productivity & workflow automation
 - Strategic career growth through product thinking
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## Currently
 
 - 🔭 **Building**: RanSON Engine (CareerOS meets Interview AI)
 - ✍️ **Sharing**: Insights on product-building, system design, and AI on [LinkedIn](https://linkedin.com/in/mohit-s-rane)
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## Fun but True
 I build for impact, think in systems, and believe in sharing everything I learn.  
