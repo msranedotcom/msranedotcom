@@ -89,7 +89,7 @@ I might debug your app and pitch a product idea in the same breath.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohit-s-rane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitrane" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohit_s_rane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_s_rane" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohitsrane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_s_rane" height="30" width="40" /></a>
 <a href="https://www.msrane.com" target="blank"><img align="center" src="./m-logo-gif.gif" alt="mohit rane" height="40" width="40" /></a>
 </p>
 <br>
