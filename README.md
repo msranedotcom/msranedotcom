@@ -1,4 +1,4 @@
-![logo](msr-mask-vc-card-v3.png)
+![logo](msr-mask-vc-card.png)
 
 <h1 align="center">Mohit Rane</h1>
 <h2 align="center">Founding Architect | Context-Intelligent Systems | Enterprise AI</h2>
@@ -61,7 +61,7 @@ In parallel, I design and ship:
 Much of this work happens under NDA.
 The patterns are consistent.
 
-> More projects: [📁 Mohit Coding Lab](https://github.com/msranedotcom) (coming soon: split public/private showcases)
+> More projects: [📁 Mohit Coding Lab](https://github.com/mohitranedotcom) (coming soon: split public/private showcases)
 
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -118,8 +118,8 @@ I share longer-form thinking and architectural essays elsewhere.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## Find More
 
-- 🌐 **Website:** https://www.msrane.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/msranedotcom  
+- 🌐 **Website:** https://www.mohitrane.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/mohitranedotcom  
 
 If you’re looking for someone to “just build features”
 this profile will probably feel heavy.
@@ -131,9 +131,9 @@ we’ll likely have a good conversation.
 <br>
 <h3 align="left">Elsewhere</h3>
 <p align="left">
- <a href="https://x.com/MSRanedotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MSRanedotcom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/msranedotcom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitrane" height="30" width="40" /></a>
-<a href="https://www.msrane.com" target="blank"><img align="center" src="./m-logo-gif.gif" alt="mohit rane" height="40" width="40" /></a>
+ <a href="https://x.com/mohitranedotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitranedotcom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohitranedotcom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitrane" height="30" width="40" /></a>
+<a href="https://www.mohitrane.com" target="blank"><img align="center" src="./m-logo-gif.gif" alt="mohit rane" height="40" width="40" /></a>
 </p>
 
 <br><br><br>
