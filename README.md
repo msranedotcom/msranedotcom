@@ -3,10 +3,10 @@
 <h1 align="center">Mohit Rane</h1>
 <h2 align="center">Founding Architect | Context-Intelligent Systems | Enterprise AI</h2>
 <p align="center">
-I design systems where architecture, AI, and execution reinforce each other — preventing irreversible technical and decision debt as products and organizations scale.
+I design systems where architecture, AI, and execution reinforce each other preventing irreversible technical and decision debt as products and organizations scale.
 </p>
 <p align="center">
-I’m less interested in features — and more interested in whether a system can still evolve
+I’m less interested in features and more interested in whether a system can still evolve
 <strong>two years after the original team is gone</strong>.
 </p>
 
@@ -24,13 +24,13 @@ I design **context-aware, decision-traceable platforms** where:
 - AI accelerates *good* decisions instead of amplifying mistakes
 - execution paths remain governable under pressure
 
-This is the layer where founders either gain years — or lose them.
+This is the layer where founders either gain years or lose them.
 
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## What I’m Building
 
-### **CII — Context Intelligence Interface**
+### **CI2 -> Context Intelligence Interface**
 A foundational platform that preserves **decision-level context** across AI systems and complex software products.
 
 CII enables:
@@ -48,7 +48,7 @@ An execution and orchestration engine that translates architectural intent into
 repeatable, production-grade delivery paths.
 
 The goal is simple:
-execution should *reinforce* architecture — not erode it.
+execution should *reinforce* architecture not erode it.
 
 ---
 
@@ -69,7 +69,7 @@ The patterns are consistent.
 
 - Decisions should remain reversible for as long as possible
 - Lost context is more dangerous than bad code
-- AI is an accelerator — not a substitute for architecture
+- AI is an accelerator not a substitute for architecture
 - Governance works best when it’s structural, not procedural
 - Speed without structure compounds failure
 
@@ -121,10 +121,10 @@ I share longer-form thinking and architectural essays elsewhere.
 - 🌐 **Website:** https://www.msrane.com  
 - 💼 **LinkedIn:** https://linkedin.com/in/msranedotcom  
 
-If you’re looking for someone to “just build features” —
+If you’re looking for someone to “just build features”
 this profile will probably feel heavy.
 
-If you care about systems that survive scale —
+If you care about systems that survive scale -
 we’ll likely have a good conversation.
 
 
@@ -140,7 +140,7 @@ we’ll likely have a good conversation.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<em><b>“Let’s build something new”</b> — one smart system at a time.</em>
+<em><b>“Let’s build something new”</b> -> one smart system at a time.</em>
 
 <br><br>
 <p align="right">
